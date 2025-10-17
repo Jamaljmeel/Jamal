@@ -55,6 +55,16 @@ I enjoy transforming real-world problems into digital solutions.
 
 ---
 
+## 🚀 What I’m Currently Working On
+📱 Developing cross-platform apps using **Flutter + Firebase + Dialogflow**  
+⚡ Enhancing **UI/UX** with animations & responsive layouts  
+🧩 Exploring advanced state management (**BLoC, Riverpod, GetX**)  
+💻 Developing an **Accounting System** using **ASP.NET Core**  
+📲 Testing new apps, currently in **closed testing** on **Google Play Console** — soon the **Al-Shumairy Restaurants Delivery App** will be available on the store
+💾 Working with multiple databases: **Firebase, MySQL, SQLite**
+
+---
+
 ## 🔗 Connect With Me
 [![LinkedIn](https://www.linkedin.com/in/jamal-al-awady-005b182a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jamaljmeel)
