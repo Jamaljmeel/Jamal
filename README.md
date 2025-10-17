@@ -66,7 +66,7 @@ I enjoy transforming real-world problems into digital solutions.
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/jamal-al-awady-005b182a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamal-al-awady-005b182a0)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jamaljmeel)
 
 ---
