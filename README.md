@@ -39,13 +39,31 @@ I enjoy transforming real-world problems into digital solutions.
 
 ---
 
-## 📂 Featured Projects
+📂 Featured Projects
+🌸 Bahjah Digital Management Platform
 
-| Project | Description | Technologies | GitHub |
-|----------|--------------|---------------|--------|
-| **🌸 Bahjah Digital Management Platform** | A digital management system for organizations in Yemen — supports chatbots via Dialogflow. | Flutter · Firebase · Dialogflow | [View Repo](https://github.com/Jamaljmeel/Bahjah) |
-| **🍴 Al-Shumairy Restaurant Website** | A web-based restaurant management system with dynamic menu, billing, and orders. | HTML · CSS · JS · Bootstrap · MySQL · PHP | [View Repo](https://github.com/Jamaljmeel/Al-Shumairy-Restaurants-Website) |
-| **📝 My Notes App** | A simple and elegant mobile app for taking and organizing notes offline. | Flutter · SQLite | [View Repo](https://github.com/Jamaljmeel/Notes) |
+Description:
+A digital management system for organizations in Yemen — supports chatbots via Dialogflow.
+
+Technologies: Flutter · Firebase · Dialogflow
+GitHub: View Repo
+
+🍴 Al-Shumairy Restaurant Website
+
+Description:
+A web-based restaurant management system with dynamic menu, billing, and orders.
+
+Technologies: HTML · CSS · JS · Bootstrap · MySQL · PHP
+GitHub: View Repo
+
+📝 My Notes App
+
+Description:
+A simple and elegant mobile app for taking and organizing notes offline.
+
+Technologies: Flutter · SQLite
+GitHub: View Repo
+
 
 
 ---
