@@ -48,7 +48,7 @@ I enjoy transforming real-world problems into digital solutions.
 A digital management system for organizations in Yemen — supports chatbots via Dialogflow.
 
 **Technologies:** Flutter · Firebase · Dialogflow  
-**GitHub:** [🌐 View Repository](https://github.com/Jamaljmeel/Bahjah)
+**GitHub:** [🌐 View Repository](https://github.com/Jamaljmeel/Bahja-Platform)
 
 ---
 
